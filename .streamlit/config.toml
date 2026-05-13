@@ -1,0 +1,18 @@
+[theme]
+# 设置默认主题为浅色，你可以改成 "dark" 就是全局深色
+base="light"
+
+# 主题色（按钮、高亮的主色调，这里用了你喜欢的蓝色）
+primaryColor="#1677FF"
+
+# 主背景色（极其干净的白色）
+backgroundColor="#FFFFFF"
+
+# 侧边栏和辅助区域背景色（这里用了极淡的高级灰蓝，类似 Gemini，非常协调）
+secondaryBackgroundColor="#F0F4F9"
+
+# 全局文字颜色（深灰色，比纯黑更护眼）
+textColor="#1F1F1F"
+
+# 全局字体
+font="sans serif"
