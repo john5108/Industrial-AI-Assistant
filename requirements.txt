@@ -1,0 +1,12 @@
+streamlit
+zhipuai
+langchain-text-splitters
+langchain-community
+faiss-cpu
+huggingface-hub
+sentence-transformers
+PyPDF2
+python-docx2txt
+requests
+openai
+volcenginesdkarkruntime
